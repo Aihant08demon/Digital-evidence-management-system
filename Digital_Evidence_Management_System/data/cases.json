@@ -1,0 +1,12 @@
+[
+    {
+        "case_id": "0007",
+        "crime_type": "robbery",
+        "location": "modinagar",
+        "date": "07/8/1994",
+        "officer": "amrish",
+        "suspect": "mayank",
+        "status": "yes",
+        "priority": "medium"
+    }
+]
